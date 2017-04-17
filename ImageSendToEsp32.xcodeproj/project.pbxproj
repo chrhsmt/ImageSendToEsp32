@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		275333A00F9947FE792C5D2F /* Pods_ImageSendToEsp32UITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 873F1F90ABB0108A0EBA7124 /* Pods_ImageSendToEsp32UITests.framework */; };
+		407AB74B9FCD8F8E219CFF59 /* Pods_ImageSendToEsp32.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8A11A062EA63F69C784ED3E6 /* Pods_ImageSendToEsp32.framework */; };
+		50B4364A14F3ADD355FA25EF /* Pods_ImageSendToEsp32Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 179A342DA4FAA1A20BD388E7 /* Pods_ImageSendToEsp32Tests.framework */; };
 		60FEB16F1EA4BCE300FAC89D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60FEB16E1EA4BCE300FAC89D /* AppDelegate.swift */; };
 		60FEB1711EA4BCE300FAC89D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60FEB1701EA4BCE300FAC89D /* ViewController.swift */; };
 		60FEB1741EA4BCE300FAC89D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60FEB1721EA4BCE300FAC89D /* Main.storyboard */; };
@@ -34,6 +37,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0829C22E92433233B4DBAC32 /* Pods-ImageSendToEsp32.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ImageSendToEsp32.release.xcconfig"; path = "Pods/Target Support Files/Pods-ImageSendToEsp32/Pods-ImageSendToEsp32.release.xcconfig"; sourceTree = "<group>"; };
+		179A342DA4FAA1A20BD388E7 /* Pods_ImageSendToEsp32Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ImageSendToEsp32Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1952E5E99DF222BE8F84624C /* Pods-ImageSendToEsp32.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ImageSendToEsp32.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ImageSendToEsp32/Pods-ImageSendToEsp32.debug.xcconfig"; sourceTree = "<group>"; };
+		4D322EB760244FE61B09CF47 /* Pods-ImageSendToEsp32UITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ImageSendToEsp32UITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ImageSendToEsp32UITests/Pods-ImageSendToEsp32UITests.release.xcconfig"; sourceTree = "<group>"; };
 		60FEB16B1EA4BCE300FAC89D /* ImageSendToEsp32.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImageSendToEsp32.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		60FEB16E1EA4BCE300FAC89D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		60FEB1701EA4BCE300FAC89D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +54,11 @@
 		60FEB18A1EA4BCE300FAC89D /* ImageSendToEsp32UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ImageSendToEsp32UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		60FEB18E1EA4BCE300FAC89D /* ImageSendToEsp32UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSendToEsp32UITests.swift; sourceTree = "<group>"; };
 		60FEB1901EA4BCE300FAC89D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6FB64684721430D653B370E9 /* Pods-ImageSendToEsp32Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ImageSendToEsp32Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ImageSendToEsp32Tests/Pods-ImageSendToEsp32Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		815A5A451C144EA7C3FE287F /* Pods-ImageSendToEsp32UITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ImageSendToEsp32UITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ImageSendToEsp32UITests/Pods-ImageSendToEsp32UITests.debug.xcconfig"; sourceTree = "<group>"; };
+		873F1F90ABB0108A0EBA7124 /* Pods_ImageSendToEsp32UITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ImageSendToEsp32UITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8A11A062EA63F69C784ED3E6 /* Pods_ImageSendToEsp32.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ImageSendToEsp32.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D7185A8672C8CFABF04A40D2 /* Pods-ImageSendToEsp32Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ImageSendToEsp32Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ImageSendToEsp32Tests/Pods-ImageSendToEsp32Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +66,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				407AB74B9FCD8F8E219CFF59 /* Pods_ImageSendToEsp32.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				50B4364A14F3ADD355FA25EF /* Pods_ImageSendToEsp32Tests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,12 +82,23 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				275333A00F9947FE792C5D2F /* Pods_ImageSendToEsp32UITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3193EB76F76EBA5DB709C99F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8A11A062EA63F69C784ED3E6 /* Pods_ImageSendToEsp32.framework */,
+				179A342DA4FAA1A20BD388E7 /* Pods_ImageSendToEsp32Tests.framework */,
+				873F1F90ABB0108A0EBA7124 /* Pods_ImageSendToEsp32UITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		60FEB1621EA4BCE300FAC89D = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +106,8 @@
 				60FEB1821EA4BCE300FAC89D /* ImageSendToEsp32Tests */,
 				60FEB18D1EA4BCE300FAC89D /* ImageSendToEsp32UITests */,
 				60FEB16C1EA4BCE300FAC89D /* Products */,
+				684D33F5A6EECB58626BFDBB /* Pods */,
+				3193EB76F76EBA5DB709C99F /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -125,6 +152,19 @@
 			path = ImageSendToEsp32UITests;
 			sourceTree = "<group>";
 		};
+		684D33F5A6EECB58626BFDBB /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				1952E5E99DF222BE8F84624C /* Pods-ImageSendToEsp32.debug.xcconfig */,
+				0829C22E92433233B4DBAC32 /* Pods-ImageSendToEsp32.release.xcconfig */,
+				6FB64684721430D653B370E9 /* Pods-ImageSendToEsp32Tests.debug.xcconfig */,
+				D7185A8672C8CFABF04A40D2 /* Pods-ImageSendToEsp32Tests.release.xcconfig */,
+				815A5A451C144EA7C3FE287F /* Pods-ImageSendToEsp32UITests.debug.xcconfig */,
+				4D322EB760244FE61B09CF47 /* Pods-ImageSendToEsp32UITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,9 +172,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 60FEB1931EA4BCE300FAC89D /* Build configuration list for PBXNativeTarget "ImageSendToEsp32" */;
 			buildPhases = (
+				407CFBB04D9DEE1F68BBEC9C /* [CP] Check Pods Manifest.lock */,
 				60FEB1671EA4BCE300FAC89D /* Sources */,
 				60FEB1681EA4BCE300FAC89D /* Frameworks */,
 				60FEB1691EA4BCE300FAC89D /* Resources */,
+				8ED9D2F517A2D7616243E674 /* [CP] Embed Pods Frameworks */,
+				2A1A94DF91A18ED2482E47A9 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -149,9 +192,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 60FEB1961EA4BCE300FAC89D /* Build configuration list for PBXNativeTarget "ImageSendToEsp32Tests" */;
 			buildPhases = (
+				8AC3421BF407868824C01DC3 /* [CP] Check Pods Manifest.lock */,
 				60FEB17B1EA4BCE300FAC89D /* Sources */,
 				60FEB17C1EA4BCE300FAC89D /* Frameworks */,
 				60FEB17D1EA4BCE300FAC89D /* Resources */,
+				BD17A191A0A01226CDA6221E /* [CP] Embed Pods Frameworks */,
+				610F4E8F03428E68B840C95E /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -167,9 +213,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 60FEB1991EA4BCE300FAC89D /* Build configuration list for PBXNativeTarget "ImageSendToEsp32UITests" */;
 			buildPhases = (
+				F5FB0F9E1DDF6301FDE185DB /* [CP] Check Pods Manifest.lock */,
 				60FEB1861EA4BCE300FAC89D /* Sources */,
 				60FEB1871EA4BCE300FAC89D /* Frameworks */,
 				60FEB1881EA4BCE300FAC89D /* Resources */,
+				D40C0A09F8A2ED770DE80347 /* [CP] Embed Pods Frameworks */,
+				BA432896BC8A507EF51D5211 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -256,6 +305,144 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		2A1A94DF91A18ED2482E47A9 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ImageSendToEsp32/Pods-ImageSendToEsp32-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		407CFBB04D9DEE1F68BBEC9C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		610F4E8F03428E68B840C95E /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ImageSendToEsp32Tests/Pods-ImageSendToEsp32Tests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8AC3421BF407868824C01DC3 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		8ED9D2F517A2D7616243E674 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ImageSendToEsp32/Pods-ImageSendToEsp32-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		BA432896BC8A507EF51D5211 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ImageSendToEsp32UITests/Pods-ImageSendToEsp32UITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		BD17A191A0A01226CDA6221E /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ImageSendToEsp32Tests/Pods-ImageSendToEsp32Tests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D40C0A09F8A2ED770DE80347 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ImageSendToEsp32UITests/Pods-ImageSendToEsp32UITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F5FB0F9E1DDF6301FDE185DB /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		60FEB1671EA4BCE300FAC89D /* Sources */ = {
@@ -415,6 +602,7 @@
 		};
 		60FEB1941EA4BCE300FAC89D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1952E5E99DF222BE8F84624C /* Pods-ImageSendToEsp32.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 9W9TQ33T76;
@@ -428,6 +616,7 @@
 		};
 		60FEB1951EA4BCE300FAC89D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0829C22E92433233B4DBAC32 /* Pods-ImageSendToEsp32.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 9W9TQ33T76;
@@ -441,6 +630,7 @@
 		};
 		60FEB1971EA4BCE300FAC89D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6FB64684721430D653B370E9 /* Pods-ImageSendToEsp32Tests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -456,6 +646,7 @@
 		};
 		60FEB1981EA4BCE300FAC89D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D7185A8672C8CFABF04A40D2 /* Pods-ImageSendToEsp32Tests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -471,6 +662,7 @@
 		};
 		60FEB19A1EA4BCE300FAC89D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 815A5A451C144EA7C3FE287F /* Pods-ImageSendToEsp32UITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = 9W9TQ33T76;
@@ -485,6 +677,7 @@
 		};
 		60FEB19B1EA4BCE300FAC89D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4D322EB760244FE61B09CF47 /* Pods-ImageSendToEsp32UITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = 9W9TQ33T76;
